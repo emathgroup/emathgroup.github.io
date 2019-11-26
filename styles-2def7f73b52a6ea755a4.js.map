@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/modules/contact.module.scss"],"names":["module","exports"],"mappings":"uOACAA,EAAOC,QAAU,CAAC,KAAO","file":"styles-2def7f73b52a6ea755a4.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"link\":\"contact-module--link--2Ghja\"};"],"sourceRoot":""}
