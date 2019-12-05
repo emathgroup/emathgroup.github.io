@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{230:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),c=n(213),r=n(214),u=n.n(r),i=(n(216),n(105)),p=n.n(i);t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:p.a.siteTitle}),l.a.createElement("div",null,l.a.createElement("h1",null,"数学研发论坛"),l.a.createElement("p",null,"本网站主要是搜集",l.a.createElement("a",{href:"https://bbs.emath.ac.cn/forum.php"},"数学研发论坛"),"上的精华帖子. ")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-65683bd052453986b287.js.map
